@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋
+
+Let's have fun together!
 
 <!--
 **fredcoff/fredcoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
