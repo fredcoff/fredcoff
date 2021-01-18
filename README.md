@@ -2,6 +2,8 @@
 
 Let's have fun together!
 
+[My Blog](https://freddyia.netlify.app/)
+
 <!--
 **fredcoff/fredcoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
